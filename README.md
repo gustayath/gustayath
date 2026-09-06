@@ -1,4 +1,4 @@
-# Olá, eu sou o Gustavo Yath! 👋
+# Gustavo Yath!
 
 ### 🚀 Sobre Mim
 Desenvolvedor entusiasta de **Data Science** e **Machine Learning**. Atualmente focado em aprofundar conhecimentos na análise e processamento de dados, criação de modelos preditivos e visualização clara de insights.
