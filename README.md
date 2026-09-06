@@ -30,22 +30,8 @@ Aqui estão alguns dos projetos de estudo e aplicação prática que desenvolvi:
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustayath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustayath&layout=compact&theme=tokyonight&hide=html,css"/>
-</p>
-
----
-
 ### 📬 Conecte-se Comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoyath)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gustayath)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-
 ---
-<p align="center"><i>"In God we trust, all others must bring data." — W. Edwards Deming</i></p>
-
-```
