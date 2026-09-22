@@ -1,4 +1,8 @@
 Gustavo Yath 👋
+
+🐍 Contribuições
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" /> <img src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" alt="Snake animation das contribuições do GitHub" /> </picture> </p>
+
 🚀 Sobre Mim
 
 🎓 Estudante de Ciência de Dados e Desenvolvimento de Sistemas, com foco em transformar dados em informações úteis e desenvolver soluções utilizando tecnologia.
@@ -12,47 +16,41 @@ Gustavo Yath 👋
 🧰 Tecnologias & Ferramentas
 💻 Desenvolvimento
 
-Python
+🐍 Python
 
-SQL
+🗄️ SQL
 
-Git
+🔧 Git
 
-GitHub
+🐙 GitHub
 
 📊 Ciência de Dados
 
-Pandas
+🐼 Pandas
 
-NumPy
+🔢 NumPy
 
-SciPy
+📐 SciPy
 
-Matplotlib
+📈 Matplotlib
 
-Seaborn
+🎨 Seaborn
 
-Jupyter Notebook
+📓 Jupyter Notebook
 
 🤖 Machine Learning
 
-Scikit-Learn
+🧠 Scikit-Learn
 
-Classificação
+📊 Classificação
 
-Regressão
+📈 Regressão
 
-Análise exploratória de dados
+🔎 Análise exploratória de dados
 
-Pré-processamento de dados
+🧹 Pré-processamento de dados
 
-Avaliação de modelos
+📏 Avaliação de modelos
 
-📈 Estatísticas do GitHub
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustayath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustayath&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" /> </p>
-🐍 Contribuições
-<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" /> <img alt="Snake animation das contribuições do GitHub" src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" /> </picture> </p>
-📊 Minhas Contribuições
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustayath&theme=tokyo-night" alt="Gráfico de contribuições" /> </p>
 📬 Conecte-se Comigo
 <p align="center"> <a href="https://github.com/gustayath"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/gustavoyath"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustayath&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
