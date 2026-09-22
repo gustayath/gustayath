@@ -12,6 +12,18 @@
 
 ---
 
+### 🐍 Contribuições
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" alt="Snake animation das contribuições do GitHub" />
+  </picture>
+</p>
+
+---
+
 ### 🧰 Tecnologias & Ferramentas
 
 #### 💻 Desenvolvimento & Banco de Dados
@@ -32,18 +44,6 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 * **Especialidades:** Classificação • Regressão • Análise Exploratória de Dados (EDA) • Pré-processamento de Dados • Avaliação de Modelos
-
----
-
-### 🐍 Contribuições
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" alt="Snake animation das contribuições do GitHub" />
-  </picture>
-</p>
 
 ---
 
