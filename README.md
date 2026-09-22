@@ -1,98 +1,58 @@
-# 👋 Olá, eu sou o Gustayath!
+Gustavo Yath 👋
+🚀 Sobre Mim
 
-### 💻 Desenvolvedor | Tecnologia | Programação
+🎓 Estudante de Ciência de Dados e Desenvolvimento de Sistemas, com foco em transformar dados em informações úteis e desenvolver soluções utilizando tecnologia.
 
-Sou apaixonado por tecnologia, programação e desenvolvimento de projetos.
+🐍 Tenho como principal linguagem o Python, explorando análise de dados, estatística e Machine Learning.
 
----
+📊 Atualmente, venho aprofundando meus conhecimentos em análise exploratória de dados (EDA), visualização, tratamento de dados e construção de modelos preditivos.
 
-## 🐍 Minhas Contribuições
+💡 Também tenho interesse em desenvolvimento de sistemas e na criação de soluções que unam programação, dados e inteligência artificial.
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg"
-  />
-  <img
-    alt="Snake animation"
-    src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg"
-  />
-</picture>
+🧰 Tecnologias & Ferramentas
+💻 Desenvolvimento
 
----
+Python
 
-## 👨‍💻 Sobre Mim
+SQL
 
-- 🚀 Desenvolvedor apaixonado por tecnologia
-- 💡 Sempre buscando aprender coisas novas
-- 🛠️ Gosto de criar projetos e experimentar novas tecnologias
-- 📚 Atualmente estudando e aprimorando minhas habilidades
+Git
 
----
+GitHub
 
-## 🧰 Tecnologias & Ferramentas
+📊 Ciência de Dados
 
-<div align="center">
+Pandas
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+NumPy
 
-</div>
+SciPy
 
----
+Matplotlib
 
-## 🚀 Projetos em Destaque
+Seaborn
 
-Confira alguns dos meus projetos e trabalhos disponíveis aqui no GitHub.
+Jupyter Notebook
 
----
+🤖 Machine Learning
 
-## 📊 Estatísticas do GitHub
+Scikit-Learn
 
-<div align="center">
+Classificação
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustayath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+Regressão
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustayath&layout=compact&langs_count=7&theme=tokyonight"/>
+Análise exploratória de dados
 
-</div>
+Pré-processamento de dados
 
----
+Avaliação de modelos
 
-## 🔥 Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gustayath&theme=tokyonight&hide_border=false" />
-
-</div>
-
----
-
-## 📫 Conecte-se Comigo
-
-<div align="center">
-
-<a href="https://github.com/gustayath">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Obrigado pela visita! 🚀
-
-![Profile Views](https://komarev.com/ghpvc/?username=gustayath&color=blueviolet&style=for-the-badge)
-
-</div>
+📈 Estatísticas do GitHub
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gustayath&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustayath&layout=compact&theme=tokyonight" alt="Linguagens mais utilizadas" /> </p>
+🐍 Contribuições
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" /> <img alt="Snake animation das contribuições do GitHub" src="https://raw.githubusercontent.com/gustayath/gustayath/output/github-snake.svg" /> </picture> </p>
+📊 Minhas Contribuições
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=gustayath&theme=tokyo-night" alt="Gráfico de contribuições" /> </p>
+📬 Conecte-se Comigo
+<p align="center"> <a href="https://github.com/gustayath"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://www.linkedin.com/in/gustavoyath"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=gustayath&color=blueviolet&style=for-the-badge" alt="Profile views" /> </p>
